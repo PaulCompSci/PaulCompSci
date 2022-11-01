@@ -1,3 +1,3 @@
 # PaulCompSci
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/deedeeNg?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/leangpaulkho?ext=heatmap)
