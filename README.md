@@ -1,7 +1,7 @@
 # Hi there  :wave:
 I'm Paul 
 currently 2'nd year Computer Science student in Simon Fraser University in Canada
-&nbsp;
+\
 I have experienced in Competitive Programming and developing software to solve real life problem
 
 ### Leet Code progress
