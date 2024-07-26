@@ -1,5 +1,5 @@
 # Hey, I'm Paul :wave:
-currently 3'rd year Computr Science student in Simon Fraser University in Canada
+currently 3'rd year Computer Science student in Simon Fraser University in Canada
 \
 \
 I have experienced in Competitive Programming and developing software to solve real life problem
